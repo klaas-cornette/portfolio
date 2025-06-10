@@ -7,11 +7,17 @@ import { loadTranslations } from "@/core/locale.js";
 import Home from '@/flows/home/components/view/ViewHome.vue'
 import router from './router'
 
-await loadTranslations();
+const main = async () => {
+  await loadTranslations();
 
-const app = createApp(Home)
+  const app = createApp(Home)
 
-app.use(createPinia())
-app.use(router)
+  app.use(createPinia())
+  app.use(router)
 
-app.mount('#app')
+  app.mount('#app')
+}
+
+main();
+
+
