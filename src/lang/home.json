@@ -1,0 +1,224 @@
+{
+    "translations": [
+        {
+            "key": "nav.home",
+            "value_nl": "Home",
+            "value_en": "Home"
+        },
+        {
+            "key": "nav.about",
+            "value_nl": "Over mij",
+            "value_en": "About"
+        },
+        {
+            "key": "nav.skills",
+            "value_nl": "Skills",
+            "value_en": "Skills"
+        },
+        {
+            "key": "nav.projects",
+            "value_nl": "Projecten",
+            "value_en": "Projects"
+        },
+        {
+            "key": "nav.contact",
+            "value_nl": "Contact",
+            "value_en": "Contact"
+        },
+        {
+            "key": "home.title.part1",
+            "value_nl": "Ik bouw ",
+            "value_en": "I build "
+        },
+        {
+            "key": "home.title.highlight",
+            "value_nl": "web-ervaringen ",
+            "value_en": "web experiences "
+        },
+        {
+            "key": "home.title.part2",
+            "value_nl": "die verrassen én presteren.",
+            "value_en": "that surprise and perform."
+        },
+        {
+            "key": "home.subtitle",
+            "value_nl": "Full-Stack Developer met een passie voor performante en toegankelijke websites.",
+            "value_en": "Full-Stack developer with a passion for performant and accessible websites."
+        },
+        {
+            "key": "home.cta",
+            "value_nl": "Projecten bekijken",
+            "value_en": "View Projects"
+        },
+        {
+            "key": "home.about.title",
+            "value_nl": "Wie ben ik",
+            "value_en": "About Me"
+        },
+        {
+            "key": "home.about.text1",
+            "value_nl": "Ik ben een afgestudeerde student van de Artevelde Hogeschool, met een diploma in graduaat programmeren. Tijdens mijn opleiding heb ik een sterke basis gelegd als full-stack developer, met een bijzondere focus op praktijkgerichte vaardigheden.",
+            "value_en": "I am a graduate of Artevelde University College with a degree in programming. During my studies, I built a strong foundation as a full-stack developer, focusing on hands-on skills."
+        },
+        {
+            "key": "home.about.text2",
+            "value_nl": "Tijdens mijn stage bij Websolution heb ik hands-on ervaring opgedaan met het bouwen van webapplicaties, het werken in teamverband en het vertalen van klantbehoeften naar functionele software. Deze ervaring heeft mijn passie voor development verder versterkt.",
+            "value_en": "During my internship at Websolution, I gained hands-on experience building web applications, working in a team, and translating client needs into software solutions. This deepened my passion for development."
+        },
+        {
+            "key": "home.about.text3",
+            "value_nl": "Vandaag ben ik klaar om als full-stack developer mijn steentje bij te dragen aan uitdagende projecten, zowel op locatie als remote.",
+            "value_en": "Today, I’m ready to contribute as a full-stack developer on challenging projects, both on-site and remotely."
+        },
+        {
+            "key": "home.about.tag.frontend",
+            "value_nl": "Frontend",
+            "value_en": "Frontend"
+        },
+        {
+            "key": "home.about.tag.backend",
+            "value_nl": "Backend",
+            "value_en": "Backend"
+        },
+        {
+            "key": "home.about.tag.fullstack",
+            "value_nl": "Full-Stack",
+            "value_en": "Full-Stack"
+        },
+        {
+            "key": "home.about.feature1",
+            "value_nl": "Stage bij Websolution",
+            "value_en": "Internship at Websolution"
+        },
+        {
+            "key": "home.about.feature2",
+            "value_nl": "Full-Stack Developer",
+            "value_en": "Full-Stack Developer"
+        },
+        {
+            "key": "home.about.feature3",
+            "value_nl": "Remote & op locatie",
+            "value_en": "Remote & on-site"
+        },
+        {
+            "key": "home.about.feature4",
+            "value_nl": "10+ projecten",
+            "value_en": "10+ projects"
+        },
+        {
+            "key": "home.skills.title",
+            "value_nl": "Skills-matrix",
+            "value_en": "Skills Matrix"
+        },
+        {
+            "key": "home.skills.stackTitle",
+            "value_nl": "Mijn tech stack",
+            "value_en": "My tech stack"
+        },
+        {
+            "key": "home.skills.download",
+            "value_nl": "Download tech-stack PDF",
+            "value_en": "Download tech stack PDF"
+        },
+        {
+            "key": "home.skills.html",
+            "value_nl": "HTML 5",
+            "value_en": "HTML 5"
+        },
+        {
+            "key": "home.skills.css",
+            "value_nl": "CSS 3",
+            "value_en": "CSS 3"
+        },
+        {
+            "key": "home.skills.js",
+            "value_nl": "JavaScript",
+            "value_en": "JavaScript"
+        },
+        {
+            "key": "home.skills.node",
+            "value_nl": "Node.js",
+            "value_en": "Node.js"
+        },
+        {
+            "key": "home.skills.php",
+            "value_nl": "PHP",
+            "value_en": "PHP"
+        },
+        {
+            "key": "home.skills.testing",
+            "value_nl": "End-to-End Testing",
+            "value_en": "End-to-End Testing"
+        },
+        {
+            "key": "home.projects.title",
+            "value_nl": "Project-gallery",
+            "value_en": "Project Gallery"
+        },
+        {
+            "key": "home.projects.moreInfo",
+            "value_nl": "Meer info",
+            "value_en": "More info"
+        },
+        {
+            "key": "footer.rights",
+            "value_nl": " - Alle rechten voorbehouden",
+            "value_en": " - All rights reserved"
+        },
+        {
+            "key": "home.download-cv",
+            "value_nl": "Download mijn CV",
+            "value_en": "Download my CV"
+        },
+        {
+            "key": "projects.music_collab.title",
+            "value_nl": "Music Collab",
+            "value_en": "Music Collab"
+        },
+        {
+            "key": "projects.music_collab.description",
+            "value_nl": "Een platform voor muzikanten om samen te werken aan muziekprojecten, met real-time samenwerking en versiebeheer.",
+            "value_en": "A platform for musicians to collaborate on music projects, with real-time collaboration and version control."
+        },
+        {
+            "key": "projects.gentse_feesten.title",
+            "value_nl": "Gentse Feesten Remake",
+            "value_en": "Gentse Feesten Remake"
+        },
+        {
+            "key": "projects.gentse_feesten.description",
+            "value_nl": "Een interactieve website die nagemaakt is van de originele Gentse Feesten website, met een focus op frontend technologieën.",
+            "value_en": "An interactive website cloned from the original Gentse Feesten site, focusing on frontend technologies."
+        },
+        {
+            "key": "projects.skate_flow.title",
+            "value_nl": "Skate Flow App",
+            "value_en": "Skate Flow App"
+        },
+        {
+            "key": "projects.skate_flow.description",
+            "value_nl": "Mobile app voor skate om informatie te krijgen over skateparken met een focus op community aspecten en gebruikersinteractie. Met extra functionaliteiten.",
+            "value_en": "Mobile app for skaters to get information about skateparks, focusing on community aspects and user interaction, with extra features."
+        },
+        {
+            "key": "projects.pgm_remake.title",
+            "value_nl": "PGM Arteveldehs Remake",
+            "value_en": "PGM Arteveldehs Remake"
+        },
+        {
+            "key": "projects.pgm_remake.description",
+            "value_nl": "Een remake van de PGM Arteveldehs website, met een focus op moderne frontend technologieën zoals React en Tailwind CSS.",
+            "value_en": "A remake of the PGM Arteveldehs website, focusing on modern frontend technologies like React and Tailwind CSS."
+        },
+        {
+            "key": "projects.party_gram.title",
+            "value_nl": "Party-Gram App",
+            "value_en": "Party-Gram App"
+        },
+        {
+            "key": "projects.party_gram.description",
+            "value_nl": "Een mobile app die ongeveer dezelfde functionaliteiten heeft als instagram, maar dan gericht op het delen van feest- en evenementfoto's.",
+            "value_en": "A mobile app with similar functionalities to Instagram, focused on sharing party and event photos."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+.smooth-corners-extra-mini {
+  --squircle-radius: 5px;
+  --squircle-smooth: 1;
+  mask: paint(squircle);
+  -webkit-mask: paint(squircle);
+}
+
+.smooth-corners-mini {
+  --squircle-radius: 10px;
+  --squircle-smooth: 1;
+  mask: paint(squircle);
+  -webkit-mask: paint(squircle);
+}
+
+.smooth-corners {
+  --squircle-radius: 20px;
+  --squircle-smooth: 1;
+  mask: paint(squircle);
+  -webkit-mask: paint(squircle);
+}
+
+.smooth-corners-big {
+  --squircle-radius: 40px;
+  --squircle-smooth: 1;
+  mask: paint(squircle);
+  -webkit-mask: paint(squircle);
+}

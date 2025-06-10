@@ -1,0 +1,37 @@
+$spaces: 'auto', 'xs', 's', 'm', 'l', 'xl';
+
+@each $space in $spaces {
+  // margin
+  .mt-#{$space} {
+    margin-top: var(--margin-#{$space});
+  }
+
+  .mr-#{$space} {
+    margin-right: var(--margin-#{$space});
+  }
+
+  .mb-#{$space} {
+    margin-bottom: var(--margin-#{$space});
+  }
+
+  .ml-#{$space} {
+    margin-left: var(--margin-#{$space});
+  }
+
+  // padding
+  .pt-#{$space} {
+    padding-top: var(--padding-#{$space});
+  }
+
+  .pr-#{$space} {
+    padding-right: var(--padding-#{$space});
+  }
+
+  .pb-#{$space} {
+    padding-bottom: var(--padding-#{$space});
+  }
+
+  .pl-#{$space} {
+    padding-left: var(--padding-#{$space});
+  }
+}

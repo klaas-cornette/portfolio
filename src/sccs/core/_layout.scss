@@ -1,0 +1,41 @@
+.container {
+  width: 100%;
+  margin: auto;
+  padding: 0 2rem;
+  max-width: var(--full);
+
+}
+
+.d-flex {
+  display: flex;
+}
+
+.d-none {
+  display: none !important;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.d-block {
+  display: block;
+}
+
+.reset {
+    background-color: transparent;
+    border: none;
+
+}
