@@ -58,6 +58,15 @@
   width: 100%;
   margin: 0 auto;
 
+  @media screen and (max-width: 1350px) {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  @media screen and (max-width: 800px) {
+    flex-direction: column;
+  }
+
   &__content {
     flex: 1;
   }
@@ -109,6 +118,11 @@
     flex: 1;
     display: flex;
     justify-content: center;
+
+    @media screen and (max-width: 800px) {
+      margin-top: var(--margin-m);
+      
+    }
 
     img {
       width: 100%;

@@ -77,6 +77,11 @@
     display: flex;
     gap: var(--margin-l);
 
+    @media screen and (max-width: 550px) {
+      display: none;
+      
+    }
+
     a {
       color: var(--app-white);
       font-weight: 500;

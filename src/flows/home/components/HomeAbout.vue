@@ -50,6 +50,12 @@
   width: 100%;
   margin: 0 auto;
 
+  @media screen and (max-width: 1350px) {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+
   &__title {
     text-align: center;
     font-size: 3rem;
@@ -77,7 +83,12 @@
 
   &__text {
     flex: 1;
-    min-width: 280px;
+    min-width: 45rem;
+
+    @media screen and (max-width: 600px) {
+      min-width: auto;
+      
+    }
 
     p {
       margin-bottom: var(--margin-s);
@@ -113,7 +124,22 @@
     padding: var(--padding-m);
     max-width: 40rem;
     margin-top: 5rem;
+
+    @media screen and (max-width: 1140px) {
+      height: fit-content;
+      margin: 0 auto;
+    }
+
+    @media screen and (max-width: 800px) {
+      grid-template-columns: repeat(1, 1fr);
+      max-width: 100%;
+      min-width: auto;
+    }
   }
+
+
+
+
 
   &__feature {
     display: flex;

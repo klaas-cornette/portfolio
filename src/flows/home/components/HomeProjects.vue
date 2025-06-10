@@ -72,6 +72,12 @@
   &__container {
     max-width: 130rem;
     margin: 0 auto;
+
+    @media screen and (max-width: 1350px) {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      
+    }
   }
 
   &__title {
