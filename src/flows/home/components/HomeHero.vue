@@ -21,7 +21,7 @@
         </a>
       </div>
 
-      <app-button :text="__t('home.cta')" @click="scrollToProjects"/>
+      <app-button class="hero__button" :text="__t('home.cta')" @click="scrollToProjects"/>
     </div>
 
     <div class="hero__image">
@@ -65,6 +65,12 @@
 
   @media screen and (max-width: 800px) {
     flex-direction: column;
+  }
+
+  &__button {
+    color: var(--app-black);
+    background-color: var(--app-secondary);
+    padding: 1rem 2rem;
   }
 
   &__content {
